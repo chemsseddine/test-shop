@@ -1,0 +1,42 @@
+[
+  {
+    "Name": "Camembert",
+    "SellIn": 10,
+    "Quality": 20
+  },
+  {
+    "Name": "Ricotta",
+    "SellIn": 25,
+    "Quality": 40
+  },
+  {
+    "Name": "Chocotom",
+    "SellIn": 5,
+    "Quality": 7
+  },
+  {
+    "Name": "Cheese cake",
+    "SellIn": 0,
+    "Quality": 80
+  },
+  {
+    "Name": "Pokemon card rare collection",
+    "SellIn": 30,
+    "Quality": 80
+  },
+  {
+    "Name": "Backstage passes to a Amina F concert",
+    "SellIn": 15,
+    "Quality": 20
+  },
+  {
+    "Name": "Backstage passes to a Saliha concert",
+    "SellIn": 10,
+    "Quality": 49
+  },
+  {
+    "Name": "Backstage passes to a Jacky concert",
+    "SellIn": 5,
+    "Quality": 49
+  }
+]
