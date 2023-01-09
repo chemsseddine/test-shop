@@ -20,10 +20,11 @@ namespace ShopTests
                 Console.WriteLine("name, sellIn, quality");
                 for (var j = 0; j < items.Count; j++)
                 {
+                    app.UpdateQuality(items[j]);
                     Console.WriteLine(items[j].Name + ", " + items[j].SellIn + ", " + items[j].Quality);
                 }
                 Console.WriteLine("");
-                app.UpdateQuality();
+
             }
         }
 
