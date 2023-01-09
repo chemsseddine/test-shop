@@ -12,7 +12,7 @@ public class QualityManager
 
     public void UpdateQuality(Item item)
     {
-        if (item.Quality > 0)
+        if (item.Quality > 0 && item.Quality <50 )
         {
             if (item.Name.IndexOf("Backstage passes") >= 0)
             {
